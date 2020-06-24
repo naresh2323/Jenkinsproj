@@ -1,0 +1,5 @@
+THIS IS THE 1ST LINE IN THE LOCAL REPO
+THIS IS THE 1ST LINE IN THE LOCAL REPO
+2nd line added in the local repo
+3rd line added in the central repo (GITHUB.com)
+4th line added in the branch B1 local repo.
