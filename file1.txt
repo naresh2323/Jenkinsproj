@@ -7,3 +7,4 @@ THIS IS THE 1ST LINE IN THE LOCAL REPO
 7th line added in the master.
 8th line added in the branch.
 9th line added in the B1 from the git bash.
+10th line added in the file from master
